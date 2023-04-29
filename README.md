@@ -9,6 +9,9 @@ Arduino(mega) Lidar &amp; Sonar Project with Python(/w matplotlib) | not real ti
 
 !!! need synchronization for servos, need a few(lots of work) upgrade for clean work.
 !!! you can change ploting settings for better render
+
+
+
 ![basic](https://user-images.githubusercontent.com/40025745/235295954-cc5a4215-ac56-45d0-926f-aa1f6fb19c9a.png)
 ![image](https://user-images.githubusercontent.com/40025745/235296168-4eb66801-52de-45b0-9762-97fec3c5910d.png)
 
